@@ -9,23 +9,18 @@ Golang developer
 
 # :briefcase: My tech stack :briefcase:
 <p align="center">
- <a href="https://skillicons.dev">
+ <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=go,c,cpp,python,java" />
-  </a>
-</p>
-<p align="center">
- <a href="https://skillicons.dev">
+ </a>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,docker" />
   </a>
 </p>
 <p align="center">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,redis,prometheus,postman" />
-  </a>
-</p>
-<p align="center">
- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,html,css" />
-  </a>
+ </a>
 </p>
+
 
