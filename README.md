@@ -4,7 +4,7 @@ Golang developer
 
 # 	:medal_sports: My stats 	:medal_sports:
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=BurtsE)](https://github.com/stats-organization/github-stats-extended))
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=BurtsE)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurtsE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # :briefcase: My tech stack :briefcase:
