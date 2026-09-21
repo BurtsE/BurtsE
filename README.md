@@ -1,11 +1,11 @@
-Golang developer
+Back-end developer
 
 
 
 # 	:medal_sports: My stats 	:medal_sports:
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BurtsE&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=transparent)
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=BurtsE)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurtsE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=BurtsE&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 # :briefcase: My tech stack :briefcase:
 <p align="center">
